@@ -39,12 +39,13 @@ cp -r ACRO $S_ADO/ACRO
 Would you like to contribute? Great! We really appreciate the effort of our community to find and correct bugs, or to implement additional features! Please find out how to get in contact with us below.
 
 ### Links
- [ACRO GitHub repository]
+- [ACRO GitHub repository] 
+- [Statistical Working Paper]
  
 ### Get in touch
 In order to get in touch with us, please write an email at ESTAT-CONFIDENTIALITY@ec.europa.eu specifying your contact details, including information about your Research Entity.
 
 
 
-   [ACRO GitHub repository]: <https://github.com/eurostat/ACRO>
-
+[ACRO GitHub repository]: <https://github.com/eurostat/ACRO>
+[Statistical Working Paper]: <https://ec.europa.eu/eurostat/web/products-statistical-working-papers/-/ks-tc-21-005>
