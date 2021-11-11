@@ -10,7 +10,7 @@
 
   * stage 0: create folders and adopath
 
-  local working_folder = "C:\Users\fj-ritchie\OneDrive - UWE Bristol (Staff)\consulting\GOPA\output checking\deliverable 2 ACRO"
+  local working_folder = "ACRO"
 
   adopath+ "`working_folder'"
 
